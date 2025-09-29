@@ -7,7 +7,7 @@ uid: 55404b4d-7eb3-4359-b862-33bab2e9de7c
 ---
 **Taught by:** *Ting Qian and Noah Nelson, FindingFive (April 28, 2023)*
 
-**Video:** {{% resource_link "b1bbf85a-336b-4b3a-ad8b-eab0c901eb4d" "FindingFive: An Online, Non-Profit Platform for Behavioral Research" %}}
+**Video:** [FindingFive: An Online, Non-Profit Platform for Behavioral Research](https://youtu.be/SlkQZlr6NEI)
 
 **Description:** Tutorial on FindingFive
 

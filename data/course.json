@@ -1,0 +1,51 @@
+{
+  "term": "Fall",
+  "year": "2023",
+  "level": [
+    "Non-Credit"
+  ],
+  "topics": [
+    [
+      "Mathematics",
+      "Computation"
+    ],
+    [
+      "Science",
+      "Biology",
+      "Neuroscience"
+    ],
+    [
+      "Science",
+      "Cognitive Science"
+    ]
+  ],
+  "legacy_uid": "",
+  "instructors": {
+    "content": [],
+    "website": "bcs-computational-tutorials"
+  },
+  "course_image": {
+    "content": "dabd249d-2276-4b3d-a5c5-065d52138e3a",
+    "website": "bcs-computational-tutorials"
+  },
+  "course_title": "Brain and Cognitive Sciences Computational Tutorial Series",
+  "hide_download": true,
+  "course_description": "This is a seminar series led by graduate students and postdocs in the MIT Department of Brain and Cognitive Sciences (BCS) from 2015 to the present, featuring tutorials on computational topics relevant to research on intelligence in neuroscience, cognitive science, and artificial intelligence. These tutorials are aimed at participants who have some computational background but are not experts on these topics.\n\nA computational tutorial can consist of any method, tool, or model that is broadly relevant within neuroscience, cognitive science, and artificial intelligence. The goal is to bring researchers in brain and cognitive sciences closer to the researchers creating computational methods.\u00a0\n\nResources posted here include lecture videos, lecture slides, code and datasets for exercises, background references, and other supplementary material. Typically, each tutorial consists of a short lecture, and an interactive part with tutorials or \"office hours\" to work through practice problems and discuss how the material may be applied to participants\u2019 research.\u00a0\n\nThis series was organized by Emily Mackevicius, Jenelle Feather, Nhat Le, Fernanda De La Torre Romo, and Greta Tuckute, with financial support from BCS. Videos were filmed, edited, and produced by Kris Brewer, Director of Technology at the Center for Brains, Minds, and Machines (CBMM).",
+  "department_numbers": [
+    "9"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "RES.9-008",
+  "course_image_thumbnail": {
+    "content": "",
+    "website": "bcs-computational-tutorials"
+  },
+  "hide_download_original": true,
+  "learning_resource_types": [
+    "Lecture Videos",
+    "Tutorial Videos"
+  ],
+  "site_uid": "e01f75d0-4f45-46ca-a6de-182281a90ec9",
+  "site_short_id": "RES.9-008-fall-2023",
+  "site_url_path": "courses/res-9-008-brain-and-cognitive-sciences-computational-tutorials"
+}

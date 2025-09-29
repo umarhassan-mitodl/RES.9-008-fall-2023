@@ -7,7 +7,7 @@ uid: 97376f81-d49c-4d8c-bbba-a6e7d4d325a2
 ---
 **Taught by:** *Shibani Santurkar, MIT (July 23, 2020)*
 
-**Video:** {{% resource_link "aed4fe68-3275-43d2-a9aa-2530a6c3978b" "Adversarial Examples and Human-ML Alignment" %}}
+**Video:** [Adversarial Examples and Human-ML Alignment](https://youtu.be/fzusr-VdPxw)
 
 **Description:**
 
@@ -23,13 +23,13 @@ In this tutorial, we take a closer look at this question and demonstrate that th
 
 The tutorial will include demos—we will use Colab notebooks so please bring laptops along. In these demos, we will explore the brittleness of standard ML models by crafting adversarial perturbations, and use these as a lens to inspect the features models rely on.
 
-{{% resource_link "069656ec-6c80-4fac-912f-eec3d1f6eb8a" "Github link for demos" %}}
+[Github link for demos](https://github.com/MadryLab/AdvEx_Tutorial)
 
 Suggested reading (in order of importance):
 
-- {{% resource_link "b63639e0-a9b9-4a17-88df-1f3b9700f281" "Adversarial examples" %}}
-- {{% resource_link "e243a26a-56ac-48ca-83cc-0376d5f20e31" "Training robust models" %}}
-- {{% resource_link "6232a863-567a-4f1c-96fd-b5688f062283" "ML models rely on imperceptible features" %}}
+- [Adversarial examples](https://arxiv.org/abs/1412.6572)
+- [Training robust models](https://arxiv.org/abs/1706.06083)
+- [ML models rely on imperceptible features](https://arxiv.org/abs/1905.02175)
 - Robustness as a feature prior
-    - {{% resource_link "4a35c874-d3a7-4324-b146-b0a1bb87f32f" "*Robustness may be at odds with accuracy*" %}}
-    - {{% resource_link "40b88911-2a2b-4890-b6a6-780457284146" "*Adversarial robustness as a prior for learned representations*" %}}
+    - [*Robustness may be at odds with accuracy*](https://arxiv.org/abs/1805.12152)
+    - [*Adversarial robustness as a prior for learned representations*](https://arxiv.org/abs/1906.00945)

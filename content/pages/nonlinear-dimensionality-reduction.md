@@ -7,7 +7,7 @@ uid: 38d24e31-1cd4-47ae-9b82-9d4f44134e3a
 ---
 **Taught by:** *Christian Bueno, University of California, Santa Barbara (September 22, 2020)*
 
-**Video:** {{% resource_link "d0c0c26b-56fd-4705-8501-f776063940d7" "Nonlinear Dimensionality Reduction" %}}
+**Video:** [Nonlinear Dimensionality Reduction](https://youtu.be/zYqJEOJyXHo)
 
 **Description:** Working with lower dimensional representations of data can be valuable for simplifying models, removing noise, and visualization. When data is distributed in geometrically complicated ways, tools such as PCA can quickly run into limitations due to their linear nature. In this tutorial, we will dive into dimension reduction for when data is distributed in ways that have nontrivial topology and curvature. We’ll build up our understanding of these approaches alongside classical ideas from topology and differential geometry and consider their interplay. Finally, we will explore some relationships between nonlinear dimension reduction and stochastic dynamics.
 

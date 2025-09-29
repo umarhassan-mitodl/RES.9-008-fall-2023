@@ -8,20 +8,20 @@ uid: 53de610b-0101-4813-83c9-e18398c392fb
 ---
 **Taught by:** *Guillaume Hennequin, Kris Jensen, University of Cambridge (July 8, 2021)*
 
-**Video:** {{% resource_link "e857a353-c98b-4124-9b1d-ec0a38c10e98" "Learning What We Know and Knowing What We Learn: Gaussian Process Priors for Neural Data Analysis" %}}
+**Video:** [Learning What We Know and Knowing What We Learn: Gaussian Process Priors for Neural Data Analysis](https://youtu.be/cQAPIlMeL_g)
 
 **Description:** Guillaume Hennequin and Kris Jensen, University of Cambridge
 
 **Colab notebooks:**
 
-- {{% resource_link "4df1eaf8-d265-45d0-900f-b936f6b79178" "Introduction to FA and GPFA as probabilistic generative models" %}}
-- {{% resource_link "d9bfa3bf-3629-4d18-9c85-dfcbd1a3ead9" "Fitting an example data set from a primate reaching task with GPFA" %}}
+- [Introduction to FA and GPFA as probabilistic generative models](https://colab.research.google.com/drive/1LBT_kdN_CX99jyhZnKlX9yczkwh8LZF8?usp=sharing)
+- [Fitting an example data set from a primate reaching task with GPFA](https://colab.research.google.com/drive/1uOVrmf8LioyL5atl1R8BqsF_5G2p4Hue?usp=sharing)
 
 **Additional Resources:**
 
-- {{% resource_link "0f552c69-f2d4-4443-81d9-b9ac96f430c9" "Rasmussen & Williams (2006)" %}}: The standard textbook for Gaussian processes.
-- {{% resource_link "eb0be070-ff5d-4a1d-a776-9bdb06ffb58c" "David Duvenaud’s kernel cookbook" %}}: An overview of different covariance functions commonly used for Gaussian processes.
-- {{% resource_link "ffc1ae89-f53b-479f-855e-de485419238a" "Rutten et al. (2020)" %}}: Primary reference for Gaussian process factor analysis with dynamical structure (GPFADS).
-- {{% resource_link "ffc1ae89-f53b-479f-855e-de485419238a" "Jensen and Kao et al. (2021)" %}}: Primary reference for Bayesian GPFA.
-- {{% resource_link "aa56c164-5506-4537-9573-1cfdc29aeacf" "Jensen et al. (2020)" %}}: Extension of Gaussian process latent variable models to non-Euclidean manifolds.
-- {{% resource_link "4bff631c-2db3-4e1b-b937-cd5a57f080c4" "Nieh et al. (2021)" %}}: Demonstration that the hippocampus encodes additional latent structure as well as position in an evidence accumulation task.
+- [Rasmussen & Williams (2006)](http://www.gaussianprocess.org/gpml/): The standard textbook for Gaussian processes.
+- [David Duvenaud’s kernel cookbook](https://www.cs.toronto.edu/~duvenaud/cookbook/): An overview of different covariance functions commonly used for Gaussian processes.
+- [Rutten et al. (2020)](https://proceedings.neurips.cc/paper/2020/hash/6d79e030371e47e6231337805a7a2685-Abstract.html): Primary reference for Gaussian process factor analysis with dynamical structure (GPFADS).
+- [Jensen and Kao et al. (2021)](https://proceedings.neurips.cc/paper/2020/hash/6d79e030371e47e6231337805a7a2685-Abstract.html): Primary reference for Bayesian GPFA.
+- [Jensen et al. (2020)](https://proceedings.neurips.cc/paper/2020/hash/fedc604da8b0f9af74b6cfc0fab2163c-Abstract.html): Extension of Gaussian process latent variable models to non-Euclidean manifolds.
+- [Nieh et al. (2021)](https://www.nature.com/articles/s41586-021-03652-7): Demonstration that the hippocampus encodes additional latent structure as well as position in an evidence accumulation task.

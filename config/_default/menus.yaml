@@ -1,0 +1,215 @@
+leftnav:
+- identifier: f7b1b18b-5bd9-4ee9-bfbf-0ba2b09870f8
+  name: Seminar Series
+  pageRef: /pages/seminar-series
+  weight: 10
+- identifier: b53b689b-d324-41e0-a02e-c49dccf68655
+  name: "2022\u20132023"
+  pageRef: /pages/2022-2023
+  parent: f7b1b18b-5bd9-4ee9-bfbf-0ba2b09870f8
+  weight: 10
+- identifier: a23e5ffa-3c51-4945-9777-4d78b1beaf2d
+  name: "2020\u20132021"
+  pageRef: /pages/2020-2021
+  parent: f7b1b18b-5bd9-4ee9-bfbf-0ba2b09870f8
+  weight: 20
+- identifier: ea4f0868-8d17-47f4-a0f2-620d00f99c96
+  name: "2017\u20132019"
+  pageRef: /pages/2017-2019
+  parent: f7b1b18b-5bd9-4ee9-bfbf-0ba2b09870f8
+  weight: 30
+- identifier: 8cf9d0f0-f85d-451c-82a9-144fd01e2a02
+  name: "2015\u20132016"
+  pageRef: /pages/2015-2016
+  parent: f7b1b18b-5bd9-4ee9-bfbf-0ba2b09870f8
+  weight: 40
+- identifier: 55404b4d-7eb3-4359-b862-33bab2e9de7c
+  name: 'FindingFive: An Online, Non-Profit Platform for Behavioral Research'
+  pageRef: /pages/findingfive-an-online-non-profit-platform-for-behavioral-research
+  parent: b53b689b-d324-41e0-a02e-c49dccf68655
+  weight: 10
+- identifier: 598642c1-8028-4197-a3d1-a0f65ee79c52
+  name: Diffusion and Score-Based Generative Models
+  pageRef: /pages/diffusion-and-score-based-generative-models
+  parent: b53b689b-d324-41e0-a02e-c49dccf68655
+  weight: 20
+- identifier: 0807aeae-9b1b-42ab-9644-7ae225305be9
+  name: Cell-Type Specific Transcriptomics
+  pageRef: /pages/cell-type-specific-transcriptomics
+  parent: b53b689b-d324-41e0-a02e-c49dccf68655
+  weight: 30
+- identifier: e7e9e217-72b6-483e-8468-272f181a80e8
+  name: 'Tutorial on Statistical Inference on Representational Geometries '
+  pageRef: /pages/tutorial-on-statistical-inference-on-representational-geometries
+  parent: b53b689b-d324-41e0-a02e-c49dccf68655
+  weight: 40
+- identifier: bb9c9cf5-1575-46d8-9603-b8c97adb26dc
+  name: 'GLMsingle: A Toolbox for Improving Single-Trial fMRI Response Estimates'
+  pageRef: /pages/glmsingle-a-toolbox-for-improving-single-trial-fmri-response-estimates
+  parent: b53b689b-d324-41e0-a02e-c49dccf68655
+  weight: 50
+- identifier: 98d9c287-7a9e-44be-8266-579b7cf99b7d
+  name: ThreeDWorld (TDW) Tutorial
+  pageRef: /pages/threedworld-tdw-tutorial
+  parent: b53b689b-d324-41e0-a02e-c49dccf68655
+  weight: 60
+- identifier: 06d05b47-9a1c-4d16-a9a1-2fe643c158fe
+  name: 'Continuous-Time Deconvolutional Regression: A Method for Studying Continuous
+    Dynamics in Naturalistic Data'
+  pageRef: /pages/continuous-time-deconvolutional-regression-a-method-for-studying-continuous-dynamics-in-naturalistic-data
+  parent: b53b689b-d324-41e0-a02e-c49dccf68655
+  weight: 70
+- identifier: 89e1061d-6f27-423a-8817-0c9e2dfa996c
+  name: Recurrent Neural Networks for Cognitive Neuroscience
+  pageRef: /pages/recurrent-neural-networks-for-cognitive-neuroscience
+  parent: a23e5ffa-3c51-4945-9777-4d78b1beaf2d
+  weight: 10
+- identifier: dc60658a-d84e-44ef-90ba-eb9f597f4e88
+  name: 'Suite2P: A Fast and Accurate Pipeline for Automatically Processing Functional
+    Imaging Recordings'
+  pageRef: /pages/suite2p-a-fast-and-accurate-pipeline-for-automatically-processing-functional-imaging-recordings
+  parent: a23e5ffa-3c51-4945-9777-4d78b1beaf2d
+  weight: 20
+- identifier: 53de610b-0101-4813-83c9-e18398c392fb
+  name: 'Learning What We Know and Knowing What We Learn: Gaussian Process Priors
+    for Neural Data Analysis'
+  pageRef: /pages/learning-what-we-know-and-knowing-what-we-learn-gaussian-process-priors-for-neural-data-analysis
+  parent: a23e5ffa-3c51-4945-9777-4d78b1beaf2d
+  weight: 30
+- identifier: f5f5f588-8f8d-418f-b642-51491bd2db66
+  name: 'Exiting Flatland: Measuring, Modeling, and Synthesizing Animal Behavior in
+    3D'
+  pageRef: /pages/exiting-flatland-measuring-modeling-and-synthesizing-animal-behavior-in-3d
+  parent: a23e5ffa-3c51-4945-9777-4d78b1beaf2d
+  weight: 40
+- identifier: bcfb6663-dc89-493f-ab55-dba657acd592
+  name: Linear Analysis of RNN Dynamics
+  pageRef: /pages/linear-analysis-of-rnn-dynamics
+  parent: a23e5ffa-3c51-4945-9777-4d78b1beaf2d
+  weight: 50
+- identifier: 38d24e31-1cd4-47ae-9b82-9d4f44134e3a
+  name: 'Nonlinear Dimensionality Reduction '
+  pageRef: /pages/nonlinear-dimensionality-reduction
+  parent: a23e5ffa-3c51-4945-9777-4d78b1beaf2d
+  weight: 60
+- identifier: f80015fa-db8f-4bce-9c4f-c340386d8f2e
+  name: Using Lookit to Run Developmental Studies Online
+  pageRef: /pages/using-lookit-to-run-developmental-studies-online
+  parent: a23e5ffa-3c51-4945-9777-4d78b1beaf2d
+  weight: 70
+- identifier: 97376f81-d49c-4d8c-bbba-a6e7d4d325a2
+  name: Adversarial Examples and Human-ML Alignment
+  pageRef: /pages/adversarial-examples-and-human-ml-alignment
+  parent: a23e5ffa-3c51-4945-9777-4d78b1beaf2d
+  weight: 80
+- identifier: 5e0c8e8c-96af-4be2-821f-b6daf77b54da
+  name: Decoding Animal Behavior Through Pose Tracking
+  pageRef: /pages/decoding-animal-behavior-through-pose-tracking
+  parent: a23e5ffa-3c51-4945-9777-4d78b1beaf2d
+  weight: 90
+- identifier: e8dff8ff-ae28-47e5-bac7-fdf4cd38d8c7
+  name: Principles and Applications of Relational Inductive Biases in Deep Learning
+  pageRef: /pages/principles-and-applications-of-relational-inductive-biases-in-deep-learning
+  parent: ea4f0868-8d17-47f4-a0f2-620d00f99c96
+  weight: 10
+- identifier: 1665b5d2-1535-4c27-adf1-374443c1c266
+  name: 'Neural Decoding of Spike Trains and Local Field Potentials with Machine Learning
+    in Python '
+  pageRef: /pages/neural-decoding-of-spike-trains-and-local-field-potentials-with-machine-learning-in-python
+  parent: ea4f0868-8d17-47f4-a0f2-620d00f99c96
+  weight: 20
+- identifier: a8cd1889-74f4-4022-92a4-9455fbb32714
+  name: Bayesian Inference in Generative Models
+  pageRef: /pages/2-bayesian-inference-in-generative-models
+  parent: ea4f0868-8d17-47f4-a0f2-620d00f99c96
+  weight: 30
+- identifier: 0079c2df-b4a5-4482-a01f-5909bbf1c319
+  name: Unsupervised Discovery of Temporal Sequences in High-Dimensional Datasets
+  pageRef: /pages/13-unsupervised-discovery-of-temporal-sequences-in-high-dimensional-datasets
+  parent: ea4f0868-8d17-47f4-a0f2-620d00f99c96
+  weight: 40
+- identifier: e8c48a5c-a619-4f10-8817-b8ca10b59cac
+  name: 'Dimensionality Reduction for Matrix- and Tensor-Coded Data (1 & 2) '
+  pageRef: /pages/8-dimensionality-reduction-for-matrix-and-tensor-coded-data-1-2
+  parent: ea4f0868-8d17-47f4-a0f2-620d00f99c96
+  weight: 50
+- identifier: 5de973fa-d7b0-410f-8ed8-2cced3545899
+  name: Calcium Imaging Data Cell Extraction
+  pageRef: /pages/17-calcium-imaging-data-cell-extraction
+  parent: ea4f0868-8d17-47f4-a0f2-620d00f99c96
+  weight: 60
+- identifier: 22c6747c-5a55-49e9-8ea4-7cb54c31c718
+  name: Reinforcement Learning
+  pageRef: /pages/3-reinforcement-learning
+  parent: ea4f0868-8d17-47f4-a0f2-620d00f99c96
+  weight: 70
+- identifier: 6afcea00-2eca-40e2-af7d-1656588c5f64
+  name: Better Science Code
+  pageRef: /pages/18-better-science-code
+  parent: ea4f0868-8d17-47f4-a0f2-620d00f99c96
+  weight: 80
+- identifier: 43e207e9-fc38-4729-8a88-62c1cf156893
+  name: An Introduction to LSTMs in TensorFlow
+  pageRef: /pages/9-an-introduction-to-lstms-in-tensorflow
+  parent: ea4f0868-8d17-47f4-a0f2-620d00f99c96
+  weight: 90
+- identifier: 46f591f5-2570-43e5-8242-a48deb9e43fa
+  name: An Introduction to Spike Sorting
+  pageRef: /pages/16-an-introduction-to-spike-sorting
+  parent: ea4f0868-8d17-47f4-a0f2-620d00f99c96
+  weight: 100
+- identifier: 7139c8a4-6d32-46d5-a908-565bc0202de6
+  name: Linear Network Theory and Sloppy Models
+  pageRef: /pages/14-linear-network-theory-and-sloppy-models
+  parent: 8cf9d0f0-f85d-451c-82a9-144fd01e2a02
+  weight: 10
+- identifier: cbcc7b20-caf9-44c9-b8af-43d0092a5e6b
+  name: Functional Connectivity Analysis Methods and Their Interpretational Pitfalls
+  pageRef: /pages/15-functional-connectivity-analysis-methods-and-their-interpretational-pitfalls
+  parent: 8cf9d0f0-f85d-451c-82a9-144fd01e2a02
+  weight: 20
+- identifier: b5e8f148-3ac8-4543-82cc-ee3d373812a6
+  name: Tensor Methods
+  pageRef: /pages/10-tensor-methods
+  parent: 8cf9d0f0-f85d-451c-82a9-144fd01e2a02
+  weight: 30
+- identifier: 89ff97d7-c5ff-4a13-bb81-32d9c9afeeaf
+  name: Dynamical Systems in Neuroscience
+  pageRef: /pages/12-dynamical-systems-in-neuroscience
+  parent: 8cf9d0f0-f85d-451c-82a9-144fd01e2a02
+  weight: 40
+- identifier: 0324b929-c04a-4fc5-9f8b-935dbbbce261
+  name: Dimensionality Reduction II
+  pageRef: /pages/7-dimensionality-reduction-ii
+  parent: 8cf9d0f0-f85d-451c-82a9-144fd01e2a02
+  weight: 50
+- identifier: 3cbee795-9ef7-478d-bb6c-e58569ea3be9
+  name: Dimensionality Reduction I
+  pageRef: /pages/6-dimensionality-reduction-i
+  parent: 8cf9d0f0-f85d-451c-82a9-144fd01e2a02
+  weight: 60
+- identifier: 313dd04c-f019-416b-be57-3396acc25a04
+  name: Cluster Computing and OpenMind (parts 1 and 2)
+  pageRef: /pages/cluster-computing-and-openmind-1-2
+  parent: 8cf9d0f0-f85d-451c-82a9-144fd01e2a02
+  weight: 70
+- identifier: 398b6394-bdb0-49e3-8316-16acb58b085b
+  name: Decoding Analyses to Understand Neural Content and Coding
+  pageRef: /pages/11-decoding-analyses-to-understand-neural-content-and-coding
+  parent: 8cf9d0f0-f85d-451c-82a9-144fd01e2a02
+  weight: 80
+- identifier: af279dd0-6410-43f8-ac3d-36b4124c1400
+  name: Learning in Deep Neural Networks
+  pageRef: /pages/4-learning-in-deep-neural-networks
+  parent: 8cf9d0f0-f85d-451c-82a9-144fd01e2a02
+  weight: 90
+- identifier: 65ffac4c-e91c-4918-9128-f41961ae8717
+  name: Learning in Recurrent Neural Networks
+  pageRef: /pages/5-learning-in-recurrent-neural-networks
+  parent: 8cf9d0f0-f85d-451c-82a9-144fd01e2a02
+  weight: 100
+- identifier: e6ef5131-2c8a-4a67-b0a1-ced66051f566
+  name: 'Bayesian Methods: Brain and Cognitive Perspectives'
+  pageRef: /pages/1-bayesian-methods-brain-cognitive-perspectives
+  parent: 8cf9d0f0-f85d-451c-82a9-144fd01e2a02
+  weight: 110
