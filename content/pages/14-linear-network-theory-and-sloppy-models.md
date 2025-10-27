@@ -11,12 +11,12 @@ uid: 7139c8a4-6d32-46d5-a908-565bc0202de6
 
 **Slides:**
 
-- [Linear Network Theory and Sloppy Models (PPT)](https://cbmm.mit.edu/sites/default/files/learning-hub/MITTutorialsTalk_LinearNe---ry_SloppyModels16_0.pptx) (Mark Goldman’s lecture slides)
-- [Introduction to Linear Algebra (PPT)](https://cbmm.mit.edu/sites/default/files/learning-hub/LinearAlgebra_2016updatedFromwiki.ppt) (Mark Goldman and Emily Mackevicius slides)
+- {{% resource_link "43e8014d-eff8-443f-a631-36dd678cf2fd" "Linear Network Theory and Sloppy Models (PPT)" %}} (Mark Goldman’s lecture slides)
+- {{% resource_link "69166929-b915-4743-ba4d-6e30a8d9e28b" "Introduction to Linear Algebra (PPT)" %}} (Mark Goldman and Emily Mackevicius slides)
 
 **Additional Resources:**
 
-- [Sloppy model problems](https://cbmm.mit.edu/sites/default/files/documents/SloppyModelProblems.docx)
-- [Linear network theory problems](https://cbmm.mit.edu/sites/default/files/learning-hub/Linear_network_theory_problem.pdf)
-- MATLAB code: [Integration for a recurrently connected network of two neurons](https://cbmm.mit.edu/sites/default/files/documents/Recurrent2CellNet_WoodsHole_Integration.m)
-- MATLAB code: [Amplification for a recurrently connected network of two neurons](https://cbmm.mit.edu/sites/default/files/documents/Recurrent2CellNet_WoodsHole_Amplification.m)
+- {{% resource_link "fd13b5f1-8fb8-447f-b08b-c2c734492596" "Sloppy model problems" %}}
+- {{% resource_link "50bb50b2-1189-4aa8-b6c0-55251be59284" "Linear network theory problems" %}}
+- MATLAB code: {{% resource_link "0e736f12-7a2b-4786-809e-6add9fda160b" "Integration for a recurrently connected network of two neurons" %}}
+- MATLAB code: {{% resource_link "29fdc113-79de-4ad3-ab05-edd8fc7c3ca0" "Amplification for a recurrently connected network of two neurons" %}}

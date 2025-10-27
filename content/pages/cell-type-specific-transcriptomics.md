@@ -7,7 +7,7 @@ uid: 0807aeae-9b1b-42ab-9644-7ae225305be9
 ---
 **Taught by:** *Sebastian Pineda, MIT (November 21, 2022)*
 
-**Video:** [Cell-Type Specific Transcriptomics](https://youtu.be/DGZ0HX60oYY)
+**Video:** {{% resource_link "3b47c51d-a300-4f64-b9b3-3cff3f1419e0" "Cell-Type Specific Transcriptomics" %}}
 
 **Description:** Tutorial on transcriptomic assays - TRAP and snRNA-seq sequencing with Sebastian Pineda
 

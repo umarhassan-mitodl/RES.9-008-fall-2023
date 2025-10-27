@@ -7,7 +7,7 @@ uid: 5e0c8e8c-96af-4be2-821f-b6daf77b54da
 ---
 **Taught by:** *Talmo Pereira, Princeton University (July 9, 2020)*
 
-**Video:** [Decoding Animal Behavior through Pose Tracking](https://youtu.be/zwCf1pGnBUw)
+**Video:** {{% resource_link "95a8424c-43be-46d2-988d-27298b828847" "Decoding Animal Behavior through Pose Tracking" %}}
 
 **Description:**
 
@@ -17,8 +17,8 @@ In order to get a handle on how neural computations enable animals to produce co
 
 This talk will describe our work in generalizing deep learning-based methods developed for human pose estimation to the domain of animals. We tackle the problems of learning with few labeled examples, dataset-tailored neural network architecture design, and multi-instance pose tracking to build a general-purpose framework for studying animal behavior. Finally, we'll explore how postural dynamics can be used in unsupervised action recognition to create interpretable descriptions of unconstrained behavior.
 
-[Slides, code, and data for tutorial (GitHub)](https://github.com/talmo/sleap-mit-tutorial)
+{{% resource_link "d4c93298-c6b8-471d-8c35-cf8fe57c744f" "Slides, code, and data for tutorial (GitHub)" %}}
 
-In the tutorial part of the session, we will work through the usage of our framework SLEAP ([https://sleap.ai](https://sleap.ai/)) to see how we can train and evaluate deep learning models for animal pose tracking right in the browser. No data is required but we will provide a short tutorial on using SLEAP with your own data for which a laptop with [Miniconda](https://docs.conda.io/en/latest/miniconda.html) installed is recommended.
+In the tutorial part of the session, we will work through the usage of our framework SLEAP ({{% resource_link "0a1578e0-5e8b-43ad-832c-2cbca44e2409" "https://sleap.ai" %}}) to see how we can train and evaluate deep learning models for animal pose tracking right in the browser. No data is required but we will provide a short tutorial on using SLEAP with your own data for which a laptop with {{% resource_link "9b846ee4-5c5a-4e28-b223-d90a56b1fe4f" "Miniconda" %}} installed is recommended.
 
 **Speaker Bio:** Talmo Pereira is a PhD candidate in Neuroscience at Princeton University where he uses deep learning and computer vision to develop new tools for studying animal behavior. His recent work has demonstrated how advances in deep learning-based human pose estimation and tracking can be adapted to the domain of animals to solve problems in fields ranging from neuroscience to ecology. This work has been published in *Nature Methods* and featured in *The Scientist*, *Nature Lab Animal*, *Nature Toolbox*, and *Quanta* magazine. Talmo was a research intern in Perception at Google AI working on pose-based action recognition, an NSF Graduate Research Fellow, and was recently a recipient of the Porter Ogden Jacobus Fellowship, Princeton University's top graduate student honor.
